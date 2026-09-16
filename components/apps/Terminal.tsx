@@ -45,9 +45,9 @@ monitoring stacks, automation workflows, and blue-team lab environments.
     resume: () => `
 Resume snapshot
 Location: Ludhiana, India
-Current: Swift Freight - Documentation & Operations Automation
-Education: B.Tech Computer Science, PCTE Group of Institutes, 2022-2026
-Focus: entry-level Cloud, DevOps, Infrastructure, or Security Engineering roles
+Current: Junior DevOps Engineer at Meander Software | Prev: Swift Freight
+Education: B.Tech Computer Science, PCTE Group of Institutes (2022-2026)
+Focus: Cloud Security Architecture, DevSecOps, & Infrastructure Engineering
     `.trim(),
 
     projects: () => `
